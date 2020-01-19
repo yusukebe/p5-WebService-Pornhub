@@ -59,6 +59,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/yusukebe/p5-WebService-Pornhub/issues"
+      },
+      "homepage" : "https://github.com/yusukebe/p5-WebService-Pornhub",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/yusukebe/p5-WebService-Pornhub.git",
+         "web" : "https://github.com/yusukebe/p5-WebService-Pornhub"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:YUSUKEBE",
    "x_serialization_backend" : "JSON::PP version 2.97001",
