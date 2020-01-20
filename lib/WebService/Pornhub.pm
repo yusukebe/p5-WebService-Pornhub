@@ -9,7 +9,7 @@ use LWP::UserAgent;
 
 with 'WebService::Client';
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 has '+base_url' => (
     default => 'https://www.pornhub.com/webmasters',
