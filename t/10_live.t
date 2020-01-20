@@ -2,8 +2,6 @@ use strict;
 use Test::More;
 use WebService::Pornhub;
 
-use Test::Mock::LWP;
-
 unless ($ENV{WEBSERVICE_PORNHUB_LIVE_TEST}) {
     plan skip_all => '$ENV{WEBSERVICE_PORNHUB_LIVE_TEST} is not set'
 }
